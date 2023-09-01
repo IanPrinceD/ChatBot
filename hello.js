@@ -17,12 +17,12 @@ function chat() {
   }
 
   if (mood === "Yes") {
-    alert('Great! You are ' + mood + ' today');
+    alert('Oh, Great to hear!');
   }
   else if (mood === "No") {
     alert('Sorry to hear that.');
   }
   else {
-    alert('Cool!');
+    alert('Oh! I see');
   }
 }
