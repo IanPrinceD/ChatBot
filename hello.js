@@ -1,5 +1,5 @@
 function chat() {
-  alert('Click the START button!');
+  alert("Thank you for clicking, Let's start!");
 
   const yourName = prompt('Type your name');
   
